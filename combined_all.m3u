@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/epglist.txt,https://raw.githubusercontent.com/jjcxdev/m3u/refs/heads/main/m3u.xml,https://raw.githubusercontent.com/MCgrosso/Nexoiptv/refs/heads/main/pluto.xml"
 
-# Generated at 2025-02-27 12:10:07
+# Generated at 2025-02-27 12:19:48
 # Generated from workingdatabase.json
-# Total working channels: 6707
+# Total working channels: 6674
 
 # Category: None
 #EXTINF:0 tvg-id="" group-title="None",Accion Mexicana
@@ -175,9 +175,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:0 tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="None" tvg-id="NextHD" tvg-name="Next HD", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
-#EXTINF:0 tvg-logo="https://neotv.cl/assets/img/channels/NTV.svg" group-title="None" tvg-id="NTV" tvg-name="NTV", NTV
-https://marine2.miplay.cl/ntv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://neotv.cl/assets/img/channels/nativatv.png" group-title="None" tvg-id="NativaTV" tvg-name="Nativa TV", Nativa TV
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
@@ -1061,9 +1058,6 @@ https://comedydynamics-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="DoveChannel.us" group-title="None",Dove Channel (1080p)
 https://dovenow-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="SoReal.us" group-title="None",So... Real (1080p)
-https://soreal-tcl.amagi.tv/playlist.m3u8
-
 #EXTINF:0 tvg-id="Unbeaten.us" group-title="None",Unbeaten (1080p)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
@@ -1667,9 +1661,6 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="None", BO: CANAL 7.1
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
-#EXTINF:0 group-title="None", BO: CANAL 7.2 DEPORTES
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-
 #EXTINF:0 group-title="None", BO: BOLIVISION
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
@@ -1681,24 +1672,6 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/16600
 
 #EXTINF:0 group-title="None", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV
-http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV DRAMA
-http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV LIFE
-http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV SCI FI
-http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
-
-#EXTINF:0 group-title="None", US: ESPN
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-
-#EXTINF:0 group-title="None", US: UNIVISION
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 #EXTINF:0 group-title="None", US: ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -2072,9 +2045,6 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:0 group-title="None", OUTER MAX
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
-#EXTINF:0 group-title="None", PAC 12 [STOPPED BROADCASTING]
-http://fl3.moveonjoy.com/PAC_12/index.m3u8
-
 #EXTINF:0 group-title="None", PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
@@ -2276,9 +2246,6 @@ https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:0 group-title="None", COA: MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:0 group-title="None", COA: CANAL 15 SABINAS
-https://cdn.fastocloud.com/leonel.m3u8
-
 #EXTINF:0 group-title="None", COA: NRT INTERNACIONAL
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/playlist.m3u8
 
@@ -2318,9 +2285,6 @@ https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf1
 #EXTINF:0 group-title="None", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:0 group-title="None", QOO: SIPSE
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:0 group-title="None", SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
@@ -2335,9 +2299,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:0 group-title="None", YUC: TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-
-#EXTINF:0 group-title="None", YUC: SIPSE
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:0 group-title="None", MX: TUBI FOX SPORTS
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
@@ -2423,14 +2384,8 @@ https://fl4.moveonjoy.com/MLB_2/index.m3u8
 #EXTINF:0 group-title="None", US: BLM 03
 https://fl4.moveonjoy.com/MLB_3/index.m3u8
 
-#EXTINF:0 group-title="None", US: BLM 07
-https://fl4.moveonjoy.com/MLB_7/index.m3u8
-
 #EXTINF:0 group-title="None", US: BLM 08
 https://fl4.moveonjoy.com/MLB_8/index.m3u8
-
-#EXTINF:0 group-title="None", US: BLM 09
-https://fl4.moveonjoy.com/MLB_9/index.m3u8
 
 #EXTINF:0 group-title="None", US: BLM 15
 https://fl4.moveonjoy.com/MLB_15/index.m3u8
@@ -2444,18 +2399,6 @@ https://fl5.moveonjoy.com/NBA_2/index.m3u8
 #EXTINF:0 group-title="None", US: ANB 03
 https://fl5.moveonjoy.com/NBA_3/index.m3u8
 
-#EXTINF:0 group-title="None", US: ANB 04
-https://fl5.moveonjoy.com/NBA_4/index.m3u8
-
-#EXTINF:0 group-title="None", US: ANB 05
-https://fl5.moveonjoy.com/NBA_5/index.m3u8
-
-#EXTINF:0 group-title="None", US: ANB 06
-https://fl5.moveonjoy.com/NBA_6/index.m3u8
-
-#EXTINF:0 group-title="None", US: ANB 07
-https://fl5.moveonjoy.com/NBA_7/index.m3u8
-
 #EXTINF:0 group-title="None", US: ANB 08
 https://fl5.moveonjoy.com/NBA_8/index.m3u8
 
@@ -2468,12 +2411,6 @@ https://fl5.moveonjoy.com/NBA_11/index.m3u8
 #EXTINF:0 group-title="None", US: ANB 12
 https://fl5.moveonjoy.com/NBA_12/index.m3u8
 
-#EXTINF:0 group-title="None", US: ANB 13
-https://fl5.moveonjoy.com/NBA_13/index.m3u8
-
-#EXTINF:0 group-title="None", US: ANB 14
-https://fl5.moveonjoy.com/NBA_14/index.m3u8
-
 #EXTINF:0 group-title="None", US: LNH 01
 http://fl5.moveonjoy.com/NHL_1/index.m3u8
 
@@ -2482,9 +2419,6 @@ http://fl5.moveonjoy.com/NHL_2/index.m3u8
 
 #EXTINF:0 group-title="None", US: LNH 03
 http://fl5.moveonjoy.com/NHL_3/index.m3u8
-
-#EXTINF:0 group-title="None", US: LNH 05
-http://fl5.moveonjoy.com/NHL_5/index.m3u8
 
 #EXTINF:0 group-title="None", US: LNH 06
 http://fl5.moveonjoy.com/NHL_6/index.m3u8
@@ -3757,9 +3691,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:0 group-title="None",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-
-#EXTINF:0 group-title="None",Hulchul TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 
 #EXTINF:0 group-title="None",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
@@ -6464,9 +6395,6 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="None", BO: CANAL 7.1
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
-#EXTINF:0 group-title="None", BO: CANAL 7.2 DEPORTES
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-
 #EXTINF:0 group-title="None", BO: BOLIVISION
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
@@ -6479,18 +6407,6 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/16600
 #EXTINF:0 group-title="None", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:0 group-title="None", CA: CTV
-http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV DRAMA
-http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV LIFE
-http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
-
-#EXTINF:0 group-title="None", CA: CTV SCI FI
-http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
-
 #EXTINF:0 group-title="None", US: EPIX
 https://fl2.moveonjoy.com/EPIX/index.m3u8
 
@@ -6499,12 +6415,6 @@ https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:0 group-title="None", US: EPIX HITS
 https://fl5.moveonjoy.com/EPIX_HITS/index.m3u8
-
-#EXTINF:0 group-title="None", US: ESPN
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-
-#EXTINF:0 group-title="None", US: UNIVISION
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 #EXTINF:0 group-title="None", US: PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -6596,9 +6506,6 @@ https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:0 group-title="None", COA: MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:0 group-title="None", COA: CANAL 15 SABINAS
-https://cdn.fastocloud.com/leonel.m3u8
-
 #EXTINF:0 group-title="None", COA: NRT INTERNACIONAL
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24/playlist.m3u8
 
@@ -6638,9 +6545,6 @@ https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf1
 #EXTINF:0 group-title="None", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:0 group-title="None", QOO: SIPSE
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:0 group-title="None", SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
@@ -6655,9 +6559,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:0 group-title="None", YUC: TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-
-#EXTINF:0 group-title="None", YUC: SIPSE
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:0 group-title="None", MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
