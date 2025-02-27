@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/epglist.txt,https://raw.githubusercontent.com/jjcxdev/m3u/refs/heads/main/m3u.xml,https://raw.githubusercontent.com/MCgrosso/Nexoiptv/refs/heads/main/pluto.xml"
 
-# Generated at 2025-02-27 12:15:54
+# Generated at 2025-02-27 12:19:48
 # Generated from workingdatabase.json
-# Total working channels: 6679
+# Total working channels: 6674
 
 # Category: None
 #EXTINF:0 tvg-id="" group-title="None",Accion Mexicana
@@ -2285,9 +2285,6 @@ https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf1
 #EXTINF:0 group-title="None", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:0 group-title="None", QOO: SIPSE
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:0 group-title="None", SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
@@ -2302,9 +2299,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:0 group-title="None", YUC: TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-
-#EXTINF:0 group-title="None", YUC: SIPSE
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:0 group-title="None", MX: TUBI FOX SPORTS
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
@@ -2389,9 +2383,6 @@ https://fl4.moveonjoy.com/MLB_2/index.m3u8
 
 #EXTINF:0 group-title="None", US: BLM 03
 https://fl4.moveonjoy.com/MLB_3/index.m3u8
-
-#EXTINF:0 group-title="None", US: BLM 07
-https://fl4.moveonjoy.com/MLB_7/index.m3u8
 
 #EXTINF:0 group-title="None", US: BLM 08
 https://fl4.moveonjoy.com/MLB_8/index.m3u8
@@ -6554,9 +6545,6 @@ https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf1
 #EXTINF:0 group-title="None", QOO: CANAL 10 CANCUN
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:0 group-title="None", QOO: SIPSE
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:0 group-title="None", SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
@@ -6571,9 +6559,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:0 group-title="None", YUC: TELEPLAY
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-
-#EXTINF:0 group-title="None", YUC: SIPSE
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
 #EXTINF:0 group-title="None", MX: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
