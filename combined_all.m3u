@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/epglist.txt,https://raw.githubusercontent.com/jjcxdev/m3u/refs/heads/main/m3u.xml,https://raw.githubusercontent.com/MCgrosso/Nexoiptv/refs/heads/main/pluto.xml"
 
-# Generated at 2025-02-27 12:44:21
+# Generated at 2025-02-27 12:49:32
 # Generated from workingdatabase.json
-# Total working channels: 6538
+# Total working channels: 6496
 
 # Category: None
 #EXTINF:0 tvg-id="" group-title="None",Accion Mexicana
@@ -6149,14 +6149,8 @@ https://livevideo01.whas11.com/hls/live/2016284/elvs/live.m3u8
 #EXTINF:0 tvg-id="WHBQDT1.us" group-title="None",WHBQ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 
-#EXTINF:0 tvg-id="WHIODT1.us" group-title="None",WHIO-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
-
 #EXTINF:0 tvg-id="WildEarth.uk" group-title="None",WildEarth (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-
-#EXTINF:0 tvg-id="WJAXDT1.us" group-title="None",WJAX-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 
 #EXTINF:0 tvg-id="WJXXDT1.us" group-title="None",WJXX-DT1 (1080p)
 https://livevideo01.firstcoastnews.com/hls/live/2014550/elvs/live.m3u8
@@ -6179,17 +6173,11 @@ https://livevideo01.weareiowa.com/hls/live/2011593/elvs/live.m3u8
 #EXTINF:0 tvg-id="WorldFishingNetwork.us" group-title="None",World Fishing Network (1080p)
 http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 
-#EXTINF:0 tvg-id="WPXIDT1.us" group-title="None",WPXI-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-
 #EXTINF:0 tvg-id="WQADDT1.us" group-title="None",WQAD-DT1 (1080p)
 https://livevideo01.wqad.com/hls/live/2011657/elvs/live.m3u8
 
 #EXTINF:0 tvg-id="WSBDT1.us" group-title="None",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-
-#EXTINF:0 tvg-id="WSOCDT1.us" group-title="None",WSOC-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 
 #EXTINF:0 tvg-id="WTHRDT1.us" group-title="None",WTHR-DT1 (1080p)
 https://livevideo01.wthr.com/hls/live/2013835/elvs/live.m3u8
@@ -13946,23 +13934,8 @@ https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="VSCTV.us" tvg-logo="https://i.imgur.com/cn6pAEZ.png" group-title="None",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 
-#EXTINF:0 tvg-id="WHIODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="None",WHIO-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
-
-#EXTINF:0 tvg-id="WJAXDT1.us" tvg-logo="https://i.imgur.com/TBjVU9L.png" group-title="None",WJAX-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-
-#EXTINF:0 tvg-id="WPXIDT1.us" tvg-logo="https://i.imgur.com/MNSBpDW.png" group-title="None",WPXI-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-
 #EXTINF:0 tvg-id="WSBDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png" group-title="None",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-
-#EXTINF:0 tvg-id="WSOCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="None",WSOC-DT1 (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-
-#EXTINF:0 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="None",Young Hollywood [Geo-blocked]
-https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 
 #EXTINF:0 tvg-id="30ADarcizzleOffshore.us" group-title="None",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
@@ -14138,9 +14111,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-
 #EXTINF:0 group-title="None",Wedo Movies (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesde-vidaa/playlist.m3u8
 
-#EXTINF:0 group-title="None",Cowboy Movies Channel
-https://g-mana.sofast.tv/media/74f94e10-14a3-44a4-892d-635739728a94/mainManifest.m3u8?ads.channel_name=COWBOY MOVIE CHANNEL &ads.content_genre=Cowboy &ads.content_language=English &ads.coppa=&ads.content_rating=PG&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3869
-
 #EXTINF:0 group-title="None",Xumo Westerns
 https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620&ads.csid=vidaa_us_xumofreewesterns_ssai&ads.caid=XUMOFreeWesterns&ads.appName=%7BAPP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BAPP_BUNDLE%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BBRAND_NAME%7D&ads._fw_device_model=%7BDEVICE_OSV%7D&ads._fw_devicetype=%7BDEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_is_lat=%7BDNT%7D&ads._fw_us_privacy=%7BUS_PRIVACY%7D&ads._fw_h_x_country=%7BDEVICE_COUNTRY%7D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.vauth=%7BVAUTH%7D&ads.xumo_contentId=5&ads.xumo_contentName=Xumo&ads.xumo_ifa=%7BIFA%7D&ads.xumo_ifaType=%7BIFA_TYPE%7D&ads.xumo_providerId=5&ads.xumo_providerName=Xumo&ads._fw_app_store_url=%7BAPP_STORE_URL%7D&ads.vidaa_ads_param=1188362017
 
@@ -14183,17 +14153,11 @@ https://tracetv-tracesportsstar-vidaa.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="None",Glory Kickboxing
 https://28f44db7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
 
-#EXTINF:0 group-title="None",Rakuten Thriller (GB)
-https://rakuten-thriller-1-gb.vidaa.wurl.tv/playlist.m3u8
-
 #EXTINF:0 group-title="None",So Real (GB)
 https://all3media-soreal-1-gb.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Conflict
 https://c652c4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NvbmZsaWN0X0hMUw/playlist.m3u8
-
-#EXTINF:0 group-title="None",WatchMojo alt
-https://452c9ee9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1dhdGNoTW9qb19ITFM/playlist.m3u8
 
 #EXTINF:0 group-title="None",Moconomy (EU)
 https://amogonetworx-moconomy-1-eu.vidaa.wurl.tv/playlist.m3u8
@@ -14206,9 +14170,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591&avod=1&coppa=0&is_lat
 
 #EXTINF:0 group-title="None",Films Francais (FR)
 https://rakuten-films-francais-1-fr.vidaa.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Rakuten Thriller (ES)
-https://rakuten-thriller-2-es.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Accion Mexicano
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3075
@@ -14327,9 +14288,6 @@ https://live907.delivery.roku.com/c526211a-f1bb-4c4b-83d5-332048deacea/t2-origin
 #EXTINF:0 group-title="None",Degrassi The Next Generation (Geo)
 https://live935.delivery.roku.com/5113a42f-ccf1-482c-8f16-a4e3295eae29/t2-origin/out/v1/live.m3u8
 
-#EXTINF:0 group-title="None",Lively Place
-https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
-
 #EXTINF:0 group-title="None",Like Nastya (Geo)
 https://live492.delivery.roku.com/13076335-6e26-44a4-996d-4072696f434e/t2-origin/out/v1/live.m3u8
 
@@ -14369,17 +14327,11 @@ https://live342.delivery.roku.com/f0dd8e4f-4eb2-45f4-a914-aaa90f4cfebc/t2-origin
 #EXTINF:0 group-title="None",Reelz Famous and Infamous (Geo)
 https://live342.delivery.roku.com/f0dd8e4f-4eb2-45f4-a914-aaa90f4cfebc/t2-origin/out/v1/live.m3u8
 
-#EXTINF:0 group-title="None",Kriminal
-https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8
-
 #EXTINF:0 group-title="None",Real Crime alt (Geo)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-lds-realcrime-rokuus/playlist.m3u8
 
 #EXTINF:0 group-title="None",Midsomer Murders alt
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Crime Thrill Her
-https://8c4e8f4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZVRocmlsbEhlcl9ITFM/playlist.m3u8
 
 #EXTINF:0 group-title="None",Trublu Crime Network (Geo)
 https://live878.delivery.roku.com/c9747066-a844-4cb1-9a7a-59ffa566f5e5/t2-origin/out/v1/live.m3u8
@@ -14392,9 +14344,6 @@ https://live1001.delivery.roku.com/0e76e004-cc61-4824-8b5a-84431c342fb9/t2-origi
 
 #EXTINF:0 group-title="None",Latino Vibes (Geo)
 https://live1028.delivery.roku.com/da4300dc-9be9-48dd-85bb-4248879f66ef/t2-origin/out/v1/live.m3u8
-
-#EXTINF:0 group-title="None",Perform
-https://4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9QZXJmb3JtX0hMUw/playlist.m3u8
 
 #EXTINF:0 group-title="None",Supermarket Sweep (Geo)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
@@ -14467,15 +14416,6 @@ https://live463.delivery.roku.com/5a472ee2-a93d-4cbd-a12d-afff4ed79fbe/t2-origin
 
 #EXTINF:0 group-title="None",RCN Más recheck
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Sony Canal Competencias
-https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Sony Canal Novelas
-https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",WMX POP (Geo)
-https://live881.delivery.roku.com/cf3a07f2-bf98-47b6-834f-56d63719433f/t2-origin/out/v1/live.m3u8
 
 #EXTINF:0 group-title="None",iHeart Latino Hits
 https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
@@ -14570,9 +14510,6 @@ https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e462
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/El_Club_de_la_Comedia.svg/924px-El_Club_de_la_Comedia.svg.png" group-title="None",El Club De La Comedia (España)
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="None",Disney Channel ᴱⁿ⁼ᵁᵏ
-https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="None",Disney Channel ᴱⁿ⁼ᵁˢ
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
@@ -14582,9 +14519,6 @@ https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="None",Disney XD ᴱᴺ
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="None",Cartoon Network ᴱˢ
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="None",Cartoon Network ᴱᴺ
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
@@ -14593,12 +14527,6 @@ https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Clan.png" group-title="None",Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png" group-title="None",Nick JR ᴱˢ
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10299.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="None",Cartoonito ᴱˢ
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10296.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="None",Cartoonito ᴱᴺ
 https://list.iptvcat.com/my_list/s/2d8b4d9b4951dfce66872f9a063313db.m3u8
@@ -14632,9 +14560,6 @@ https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="None",Telemundo (opción 2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="None",Universal Cinema
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo26z0IKwPVNfeSgwy4OtUHoLCvLmzyqm70g&usqp=CAU" group-title="None",Paramount Movie Channel ᴱᴺ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
@@ -14692,9 +14617,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cinev
 
 #EXTINF:0 tvg-id="TheFilmDetective.us" group-title="None",The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-
-#EXTINF:0 tvg-id="YoungHollywood.us" group-title="None",Young Hollywood [Geo-blocked]
-https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 
 #EXTINF:0 group-title="None",Euronews World (EU)
 https://euronews-euronews-world-1-eu.zeasn.wurl.tv/playlist.m3u8
@@ -14969,9 +14891,6 @@ https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="None",TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/48iMZ7c.png" group-title="None",The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="None",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
@@ -15011,9 +14930,6 @@ https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="None",Rise Financial (EU)
 https://rise-financial-roi-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="None",Demand Africa
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8
-
 #EXTINF:0 group-title="None",Xploration Station (GB)
 https://srpdigital-xplorationstation-1-gb.xiaomi.wurl.tv/playlist.m3u8
 
@@ -15041,41 +14957,17 @@ https://answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="None",Ted Talks (EU)
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="None",Ondemand China (US)
-https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:0 group-title="None",Crime and Punishment (US)
 https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Conflict (US)
 https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="None",Law and Crime
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
-
 #EXTINF:0 group-title="None",Strongman Champions League (DE)
 https://rightsboosterltd-scl-2-de.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Super Simple Songs (EU)
 https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",PocketWatch
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-pocketwatch-xiaomi/playlist.m3u8
-
-#EXTINF:0 group-title="None",Yu-Gi-Oh (GB)
-https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Yu-Gi-Oh (DE)
-https://fastmedia-yu-gi-oh-2-de.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Yu-Gi-Oh (ES)
-https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Yu-Gi-Oh (FR)
-https://fastmedia-yu-gi-oh-4-fr.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Yu-Gi-Oh (IT)
-https://fastmedia-yu-gi-oh-3-it.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Travel XP (EU)
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -15422,17 +15314,11 @@ https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="None",Chili Rock TV (IT)
 https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="None",Rakuten Thriller (GB)
-https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:0 group-title="None",Sorrisi (IT)
 https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Bizzaro Movies (IT)
 https://minerva-bizzarromovies-1-it.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Rakuten Thriller (ES)
-https://rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",RCN Mas (EU)
 https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -15440,17 +15326,11 @@ https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="None",Charlie (EU)
 https://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:0 group-title="None",Rakuten Thriller (DE)
-https://rakuten-thriller-3-de.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:0 group-title="None",Rakuten Romance (DE)
 https://rakuten-romance-3-de.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 group-title="None",Rakuten French Films (FR)
 https://rakuten-films-francais-1-fr.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:0 group-title="None",Rakuten Thriller (FR)
-https://rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="" group-title="None",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
@@ -19463,9 +19343,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:0 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="None",WIS-DT2
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd/
 
-#EXTINF:0 tvg-id="WJAXDT1.us" tvg-logo="https://i.imgur.com/TBjVU9L.png" group-title="None",WJAX-DT1
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-
 #EXTINF:0 tvg-id="WJXXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="None",WJXX-DT1
 https://livevideo01.firstcoastnews.com/hls/live/2014550/elvs/live.m3u8
 
@@ -19600,9 +19477,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 #EXTINF:0 tvg-id="YouDotGov.us" tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="None",YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/live.m3u8
-
-#EXTINF:0 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="None",Young Hollywood
-https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 
 #EXTINF:0 tvg-id="YoutooAmerica.us" tvg-logo="https://i.imgur.com/QNGYhNw.png" group-title="None",Youtoo America
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
